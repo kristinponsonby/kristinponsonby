@@ -6,13 +6,13 @@ I am both left brained and right brained. I love both art and science (specifica
 
 ## Projects
 
-**Pupstagram** [Demo](https://www.loom.com/share/cccf50a2e53e49d68c0f2d81ce5f47cb)  | Frontend Repo
+**Pupstagram** [Demo](https://www.loom.com/share/cccf50a2e53e49d68c0f2d81ce5f47cb)  | [Frontend Repo](https://github.com/kristinponsonby/pupstagram-frontend) 
 
-**Sweet Tooth** [Demo](https://www.youtube.com/watch?v=sPtZ9s7YmhI) | Frontend Repo 
+**Sweet Tooth** [Demo](https://www.youtube.com/watch?v=sPtZ9s7YmhI) | [Frontend Repo](https://github.com/kristinponsonby/gf-recipe-finder-frontend) 
 
-**Street Eats** [Demo](https://www.youtube.com/watch?v=GvlksTMyyW8) | Backend Repo
+**Street Eats** [Demo](https://www.youtube.com/watch?v=GvlksTMyyW8) | [Backend Repo](https://github.com/kristinponsonby/street-eats-app)
 
-**Romp** [Demo](https://www.youtube.com/watch?v=kWekiK2QZ9Q) | Backend Repo
+**Romp** [Demo](https://www.youtube.com/watch?v=kWekiK2QZ9Q) | [Backend Repo](https://github.com/kristinponsonby/Romp-app)
 
 ## 🌱 I'm Currently Working On..
 
