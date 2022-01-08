@@ -2,7 +2,9 @@
 
 I'm a full stack software engineer and fierce advocate for women in STEM. I completed the Flatiron School intensive 10 month bootcamp program for SE in 2021. I am proficient in JavaScript, React, Ruby on Rails and HTML/CSS. My diverse proessional background includes Web Development, UX Design, Real Estate, and Digital Marketing. 
 
-I am both left brained and right brained. I love both art and science (specifically where the two intersect). I am analytical, systematic, and tenacious in my approach to problem solving. I pride myself on my ability to communicate directly but with kindness. I demonstrate a meticulous attention to detail in everything I do. I can negotiate and de-escalate a sitaution. I am a professional Googler. Adept communicator. Most importantly, I try to spread positivity every where I go and with everyone I meet. 
+I am both left brained and right brained. I love both art and science (specifically where the two intersect). I am analytical, systematic, and tenacious in my approach to problem solving. I pride myself on my ability to communicate directly but with kindness. My core strengths include a meticulous attention to detail, ceaseless innovation, professional-level Googling, and leveraging what I have to do the most. 
+
+Most importantly, I try to spread positivity every where I go and with everyone I meet. 
 
 ## Projects
 
