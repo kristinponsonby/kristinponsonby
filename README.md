@@ -30,7 +30,7 @@ Built with Rails/Sinatra and CSS. CMS app that allows users to track details abo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" align="left" width="30" height="30"/> Learning Typescript
 </p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" align="left" width="30" height="30"/> Learning SCSS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" align="left" width="30" height="30"/> Learning Sass
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" align="left" width="30" height="30"/>
