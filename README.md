@@ -12,7 +12,7 @@ Most importantly, I try to spread positivity every where I go and with everyone 
 
 An Instagram style single page application for dog lovers. Post photos of your pup or find a dog park in your area. React componenent based front end architecture. Rails API backend. Implemented ActiveStorage for image upload functionality. 
 
-**Sweet Tooth** [Demo](https://www.youtube.com/watch?v=sPtZ9s7YmhI) | [Frontend Repo](https://github.com/kristinponsonby/gf-recipe-finder-frontend) | [Backend Repo]("https://github.com/kristinponsonby/gf-recipe-finder-backend")
+**Sweet Tooth** [Demo](https://www.youtube.com/watch?v=sPtZ9s7YmhI) | [Frontend Repo](https://github.com/kristinponsonby/gf-recipe-finder-frontend) | [Backend Repo](https://github.com/kristinponsonby/gf-recipe-finder-backend)
 
 Vanilla JavaScript and Rails single page application. Sweet Tooth allows users with Celiac disease to easily find, share, and browse gluten-free baking recipes.
 
