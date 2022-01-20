@@ -8,11 +8,11 @@ Most importantly, I try to spread positivity every where I go and with everyone 
 
 ## Projects
 
-**Pupstagram** [Demo](https://www.loom.com/share/cccf50a2e53e49d68c0f2d81ce5f47cb)  | [Frontend Repo](https://github.com/kristinponsonby/pupstagram-frontend)
+**Pupstagram** [Demo](https://www.loom.com/share/cccf50a2e53e49d68c0f2d81ce5f47cb)  | [Frontend Repo](https://github.com/kristinponsonby/pupstagram-frontend) | [Backend Repo] ("https://github.com/kristinponsonby/pupstagram-backend")
 
 An Instagram style single page application for dog lovers. Post photos of your pup or find a dog park in your area. React componenent based front end architecture. Rails API backend. Implemented ActiveStorage for image upload functionality. 
 
-**Sweet Tooth** [Demo](https://www.youtube.com/watch?v=sPtZ9s7YmhI) | [Frontend Repo](https://github.com/kristinponsonby/gf-recipe-finder-frontend) 
+**Sweet Tooth** [Demo](https://www.youtube.com/watch?v=sPtZ9s7YmhI) | [Frontend Repo](https://github.com/kristinponsonby/gf-recipe-finder-frontend) | [Backend Repo]("https://github.com/kristinponsonby/gf-recipe-finder-backend")
 
 Vanilla JavaScript and Rails single page application. Sweet Tooth allows users with Celiac disease to easily find, share, and browse gluten-free baking recipes.
 
