@@ -8,7 +8,7 @@ Most importantly, I try to spread positivity every where I go and with everyone 
 
 ## Projects
 
-**Pupstagram** [Demo](https://www.loom.com/share/cccf50a2e53e49d68c0f2d81ce5f47cb)  | [Frontend Repo](https://github.com/kristinponsonby/pupstagram-frontend) | [Backend Repo] ("https://github.com/kristinponsonby/pupstagram-backend")
+**Pupstagram** [Demo](https://www.loom.com/share/cccf50a2e53e49d68c0f2d81ce5f47cb)  | [Frontend Repo](https://github.com/kristinponsonby/pupstagram-frontend) | [Backend Repo](https://github.com/kristinponsonby/pupstagram-backend)
 
 An Instagram style single page application for dog lovers. Post photos of your pup or find a dog park in your area. React componenent based front end architecture. Rails API backend. Implemented ActiveStorage for image upload functionality. 
 
