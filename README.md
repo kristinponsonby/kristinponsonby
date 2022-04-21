@@ -25,7 +25,7 @@ Built with Rails/Sinatra and CSS. CMS app that allows users to track details abo
 ## 🌱 I'm Currently Working On..
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" align="left" width="30" height="30"/> Learning Typescript
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="typescript" align="left" width="30" height="30"/> Learning Python
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" align="left" width="30" height="30"/> Learning Sass
