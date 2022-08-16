@@ -1,8 +1,7 @@
 ## ✨ Hey! I'm Kristin! ✨
 
-I'm a full stack software engineer and fierce advocate for women in STEM. I completed the Flatiron School intensive 10 month bootcamp program for SE in 2021. I am proficient in JavaScript, React, Ruby on Rails and HTML/CSS. My diverse professional background includes Web Development, UX Design, Real Estate, and Digital Marketing. 
+I'm a full stack software engineer and fierce advocate for women in STEM. I completed the Flatiron School intensive 10 month bootcamp program for SE in 2021. I am proficient in JavaScript, React, Ruby on Rails and HTML/CSS. Currently, I work as a software engineer in healthcare tech. My diverse professional background includes Web Development, UX Design, Real Estate, and Digital Marketing. 
 
-Most importantly, I try to spread positivity every where I go and with everyone I meet. 
 
 ## Projects
 
