@@ -39,7 +39,7 @@ Built with Rails/Sinatra and CSS. CMS app that allows users to track details abo
 <p>
   <a href="https://www.linkedin.com/in/kristin-ponsonby/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /></p>
   <a href="https://kponsonberry.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
- <a href="https://kristinponsonby.github.io/" target="blank"><img align="left" src="https://img.icons8.com/fluency/48/000000/resume-website.png" height="30" width="30" /></a>
+ <a href="https://portfolio-2-0-kristinponsonby.vercel.app/" target="blank"><img align="left" src="https://img.icons8.com/fluency/48/000000/resume-website.png" height="30" width="30" /></a>
  </p>
  
  <br />
