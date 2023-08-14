@@ -3,24 +3,6 @@
 I'm a full stack software engineer and fierce advocate for women in STEM. I completed the Flatiron School intensive 10 month bootcamp program for SE in 2021. I am proficient in JavaScript, React, Ruby on Rails, SASS, and HTML/CSS. Additionally, I have substantial experience with AWS microservices including Lambda, Athena, Auroa, S3, Amplify, and other services as needed. Currently, I work as a an associate software engineer for Oak Ridge National Laboratory. My diverse professional background includes Web Development, UX/ UI Design, Real Estate, and Digital Marketing. 
 
 
-## Projects
-
-**Pupstagram** [Demo](https://www.loom.com/share/cccf50a2e53e49d68c0f2d81ce5f47cb)  | [Frontend Repo](https://github.com/kristinponsonby/pupstagram-frontend) | [Backend Repo](https://github.com/kristinponsonby/pupstagram-backend)
-
-An Instagram style single page application for dog lovers. Post photos of your pup or find a dog park in your area. React componenent based front end architecture. Rails API backend. Implemented ActiveStorage for image upload functionality. 
-
-**Sweet Tooth** [Demo](https://www.youtube.com/watch?v=sPtZ9s7YmhI) | [Frontend Repo](https://github.com/kristinponsonby/gf-recipe-finder-frontend) | [Backend Repo](https://github.com/kristinponsonby/gf-recipe-finder-backend)
-
-Vanilla JavaScript and Rails single page application. Sweet Tooth allows users with Celiac disease to easily find, share, and browse gluten-free baking recipes.
-
-**Street Eats** [Demo](https://www.youtube.com/watch?v=GvlksTMyyW8) | [Backend Repo](https://github.com/kristinponsonby/street-eats-app)
-
-A Rails web application for browsing and reviewing all the food trucks in Knoxville, TN. Google OmniAuth for user authentication and log in.
-
-**Romp** [Demo](https://www.youtube.com/watch?v=kWekiK2QZ9Q) | [Backend Repo](https://github.com/kristinponsonby/Romp-app)
-
-Built with Rails/Sinatra and CSS. CMS app that allows users to track details about dog parks in their area including address, water availability, and size.
-
 ## 🌱 I'm Currently Working On..
 
 <p>
