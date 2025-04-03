@@ -8,14 +8,6 @@ I'm a full stack software engineer and fierce advocate for women in STEM. I comp
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python " align="left" width="30" height="30"/> Learning Python
 </p>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" align="left" width="30" height="30"/> Learning Sass
-</p>
-<p>
- <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="amplify" align="left" width="30" height="30"/>
-</p>Learning AWS
- <br />
- &emsp;
 
 ## 📫 Get in Touch
 <p>
