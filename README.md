@@ -1,6 +1,6 @@
 ## ✨ Hey! I'm Kristin! ✨
 
-I'm a full stack software engineer and advocate for women in STEM. I completed the Flatiron School intensive bootcamp program for SE in 2021. I am proficient in JavaScript, React, Ruby on Rails, SASS, and HTML/CSS. Additionally, I have substantial experience with AWS microservices including Lambda, Athena, Auroa, S3, Amplify, and other services as needed. Currently, I work as a an associate software engineer for Oak Ridge National Laboratory. My diverse professional background includes Web Development, UX/ UI Design, Real Estate, and Digital Marketing. 
+I'm a full stack software engineer and advocate for women in STEM. I completed the Flatiron School intensive bootcamp program for SE in 2021. I am proficient in JavaScript, React, Ruby on Rails, SASS, and HTML/CSS. Additionally, I have substantial experience with AWS microservices including Lambda, Athena, Auroa, S3, Amplify, and other services as needed. Currently, I work as a mid level software engineer for Oak Ridge National Laboratory. My diverse professional background includes Web Development, UX/ UI Design, Real Estate, and Digital Marketing. 
 
 
 ## 🌱 I'm Currently Working On..
